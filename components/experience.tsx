@@ -15,7 +15,7 @@ export default function Experience() {
   ]
 
   return (
-    <section className="py-20 space-y-16">
+    <section className="py-4 px-4 space-y-16">
       <div className="space-y-4">
         <h2 className="text-5xl font-bold text-foreground">Experience</h2>
         <p className="text-lg text-foreground/60">Professional experience and work history</p>

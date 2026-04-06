@@ -1,6 +1,6 @@
 export default function Hero() {
   return (
-    <section className="py-20 md:py-40 grid grid-cols-1 md:grid-cols-2 gap-16 items-center">
+    <section className="py-4 md:py-4 px-4 grid grid-cols-1 md:grid-cols-2 gap-16 items-center">
       <div className="space-y-8">
         <div className="space-y-4 animate-fade-in">
           <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-primary/10 border border-primary/30">
@@ -12,7 +12,7 @@ export default function Hero() {
             Abhishek<br />
             <span className="bg-gradient-to-r from-primary via-primary to-primary/60 bg-clip-text text-transparent">
               Kumar
-            </span>
+            </span><br />
             Yadav
           </h1>
         </div>
