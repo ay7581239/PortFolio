@@ -3,7 +3,7 @@ export default function Header() {
     <header className="sticky top-0 z-50 border-b border-primary/10 bg-background/95 backdrop-blur-xl">
       <nav className="container mx-auto flex items-center justify-between px-4 py-5 md:px-0">
         <a href="#" className="text-2xl font-bold text-foreground hover:text-primary transition-colors duration-200">
-          Abhishek<span className="text-primary">.</span>
+          Abhishek <span className="text-primary">.</span>
         </a>
         
         <ul className="hidden md:flex items-center gap-10">
